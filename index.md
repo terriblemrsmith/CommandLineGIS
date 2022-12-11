@@ -2,7 +2,7 @@
 
 Here's a test run at this website
 
-<iframe <src="CoopTract.html" height="500" width="500"></iframe>
+<iframe <src="https://terriblemrsmith.github.io/CommandLineGIS/CoopTract.html" height="500" width="500"></iframe>
 
 You can explore this map [as its own web page here](CoopTract.html).
 
@@ -12,7 +12,7 @@ You can explore this map [as its own web page here](CoopTract.html).
   * Show clustering
   * Show target variables in the contexts that the Housing Coops exist in, as a proxy for the coops themselves (UHAB's concept)
 
-<iframe <src="2019 Black Population In Hennepin County MN by Tract.png" height="500" width="500"></iframe>
+<iframe <src="https://terriblemrsmith.github.io/CommandLineGIS/2019 Black Population In Hennepin County MN by Tract.png" height="500" width="500"></iframe>
 
-<iframe <src="2019 Percentage Black Population In Hennepin County MN by Tract.png" height="500" width="500"></iframe>
+<iframe <src="https://terriblemrsmith.github.io/CommandLineGIS/2019 Percentage Black Population In Hennepin County MN by Tract.png" height="500" width="500"></iframe>
 
