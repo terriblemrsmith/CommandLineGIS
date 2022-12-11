@@ -2,7 +2,7 @@
 
 Here's a test run at this website
 
-<iframe> <src="CoopTract.html" heigh="500" width="500"></iframe>
+<iframe <src="CoopTract.html" heigh="500" width="500"></iframe>
 
 You can explore this map [as its own web page here](CoopTract.html).
 
