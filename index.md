@@ -4,6 +4,7 @@ Here's a test run at this website
 
 
 <iframe <src="UHAB_Coops.html", height="500", width="500"></iframe>
+![UHAB_Coops.html](UHAB_Coops.html)
 
 You can explore this map [as its own web page here](UHAB_Coops.html).
 
@@ -14,4 +15,5 @@ You can explore this map [as its own web page here](UHAB_Coops.html).
   * Show target variables in the contexts that the Housing Coops exist in, as a proxy for the coops themselves (UHAB's concept)
 
 
-![2019 Black Population In Hennepin County MN by Tract](2019 Black Population In Hennepin County MN by Tract.png?raw=true)
+![2019 Percentage Black Population In Hennepin County MN by Tract](2019 Percentage Black Population In Hennepin County MN by Tract.png?raw=true)
+![2019 Median Income In Hennepin County MN by Tract](2019 Median Income In Hennepin County MN by Tract.png?raw=true)
