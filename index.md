@@ -18,3 +18,4 @@ You can explore this map [as its own web page here](UHAB_Coops.html).
 
 <iframe> <src="https://terriblemrsmith.github.io/CommandLineGIS/2019 Percentage Black Population In Hennepin County MN by Tract.png", height="500", width="500"></iframe>
 
+![2019 Black Population In Hennepin County MN by Tract](2019 Black Population In Hennepin County MN by Tract.png?raw=true)
