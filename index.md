@@ -3,7 +3,6 @@
 Here's a test run at this website
 
 <iframe src="UHAB_Coops.html" height="855" width="95%"></iframe>
-![UHAB_Coops.html](UHAB_Coops.html)
 
 You can explore this map [as its own web page here](UHAB_Coops.html).
 
